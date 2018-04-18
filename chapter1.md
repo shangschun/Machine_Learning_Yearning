@@ -8,7 +8,7 @@
 
 假设你正在建立一个创业公司，为猫爱好者提供无尽的猫的图片。并使用神经网络建立一个计算机视觉系统，检测图片中的猫。
 
-![这里写图片描述](http://oow6unnib.bkt.clouddn.com/myl-c1-0.jpg)
+![这里写图片描述](https://github.com/shangschun/Machine_Learning_Yearning/blob/master/img/chapter01.png)
 
 但悲剧的是，你的学习算法的准确性还不够好。你面临着提高猫检测准确率的巨大压力。你该怎么做？
 
