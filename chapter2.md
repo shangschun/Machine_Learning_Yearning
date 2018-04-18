@@ -7,4 +7,4 @@
 这就是为什么我将章节写的很短：这样你就可以打印出来，让你的队友只读他们所需要知道的那一两页。
 一些在优先级次序上很小的改变可能对你团队的生产力产生巨大的影响。 通过帮助你的团队进行一些这样的改变，我希望你可以成为你的团队的超级英雄！
 
-![这里写图片描述](https://github.com/shangschun/Machine_Learning_Yearning/blob/master/img/chapter02.png）
+![这里写图片描述](https://github.com/shangschun/Machine_Learning_Yearning/blob/master/img/chapter02.png)
